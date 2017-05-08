@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTBatchedBridge.m \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/louis/Github/rtu-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/louis/Github/rtu-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/louis/Github/rtu-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTDisplayLink.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/louis/Github/rtu-mobile/node_modules/react-native/React/Modules/RCTDevLoadingView.h
