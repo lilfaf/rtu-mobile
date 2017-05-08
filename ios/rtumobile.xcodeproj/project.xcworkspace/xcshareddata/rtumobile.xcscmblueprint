@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AF2800563F4A48A0E697981CD1307843334D01E4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AF2800563F4A48A0E697981CD1307843334D01E4" : 9223372036854775807,
+    "2F375E52CF2D8F6CA2BE6FDD8DC0BE3771B80501" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "ACD438D4-1B2A-473E-8A47-AC1E98F3A75C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AF2800563F4A48A0E697981CD1307843334D01E4" : "rtu-mobile\/",
+    "2F375E52CF2D8F6CA2BE6FDD8DC0BE3771B80501" : "rtu-mobile\/node_modules\/react-native-audio-streaming\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "rtumobile",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/rtumobile.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lilfaf\/react-native-audio-streaming.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2F375E52CF2D8F6CA2BE6FDD8DC0BE3771B80501"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lilfaf\/rtu-mobile.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AF2800563F4A48A0E697981CD1307843334D01E4"
+    }
+  ]
+}
